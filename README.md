@@ -44,7 +44,7 @@ Formally, I was an Assistant Director and Project Manager for a Market Research 
 
 </details>
 
-📫 How to reach me:<br>
+📫   How to reach me:<br><br>
 <a href="mailto:ndurikha@gmail.com"><img src="https://img.shields.io/badge/Reach out!-Gmail-<red>?style=for-the-badge&logo=gmail&labelColor=fcfcfc&color=f00"/></a>
  
 

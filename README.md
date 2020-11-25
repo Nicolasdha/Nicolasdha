@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Nicolas Durik-Ha, I am currently located in Denver, CO. I am an avid programmer who loves creating highly functional secure web sites and applications with clean readable and reusable code. 
+My name is Nicolas Durik-Ha, I am currently located in Morrison, CO. I am an avid programmer who loves creating highly functional secure web sites and applications with clean readable and reusable code. 
 
 
 <!---I am dedicated to making a living doing what I love.--->
@@ -17,7 +17,6 @@ My name is Nicolas Durik-Ha, I am currently located in Denver, CO. I am an avid 
 <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
 <img src="https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white"/>
 <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
- <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white"/>
 <img src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/>
 <img src ="https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white"/>
@@ -31,12 +30,12 @@ My name is Nicolas Durik-Ha, I am currently located in Denver, CO. I am an avid 
 <br>
 
  
-Formally, I was an Assistant Director and Project Manager for a Market Research Firm, but after dabbling for the past few years I choose to quit my job to learn programming full-time. I'm an extremly quick study looking for career opportunities in Software Development and Web Development. I am eagerly looking for chances to build my career, and corresponding skills. 
+I was an Assistant Director and Project Manager for a Market Research Firm, but after dabbling for the past few years I choose to quit my job to learn development full-time. I'm an very quick study looking for career opportunities in Software Development and Web Development. I am eagerly looking for chances to build my career, and corresponding skills. 
 * I love learning new things, and am a creative problem solving enthusiast
 * I have strong grasp on interpersonnel communication, have an extremly hard work ethic, and am always solution oriented
-* I have a Bachelors degree in Marketing, a Minor in Computer Science and a Certificate in Leadership from The University of Pittsburgh 
+* I have a Bachelors degree in Marketing from The University of Pittsburgh
 * Classically trained chef 🦀  🍅
-  * Lucky enough to study under Michelin Star awarded chefs, and was a recipient of the James Beard award for Best New Resturant
+  * Lucky enough to study under Michelin Star ⭐⭐⭐  awarded chefs, and was a recipient of the James Beard award for Best New Restaurant
 * Ardent outdoor lover⛺ , and an ornate/functional blacksmith 🔨🔨
 * Keen stock market player 📈 , and future real estate investor 🏡 🏡
 

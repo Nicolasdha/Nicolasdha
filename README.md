@@ -30,7 +30,7 @@ My name is Nicolas Durik-Ha, I am currently located in Morrison, CO. I am an avi
 <br>
  
  
-I was an Assistant Director and Project Manager for the Denver branch of one of the nation's premiere Market Research firms. After dabbling and making a hobby of programming for years I choose to quit my job to learn development full-time. I'm a very quick study looking for career opportunities in Software Development and Web Development. I am eagerly looking for chances to build my career, and corresponding skills. 
+I was an Assistant Director and Project Manager for the Denver branch of one of the nation's leading Market Research firms. After dabbling and making a hobby of programming for years I choose to quit my job to learn development full-time. I'm a very quick study looking for career opportunities in Software Development and Web Development. I am eagerly looking for chances to build my career, and corresponding skills. 
 * I love learning new things, and am a creative problem solving enthusiast
 * I have strong grasp on interpersonnel communication, have an extremly hard work ethic, and am always solution oriented
 * I have a Bachelors degree in Marketing from The University of Pittsburgh

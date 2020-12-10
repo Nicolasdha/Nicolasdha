@@ -37,7 +37,7 @@ I was an Assistant Director and Project Manager for the Denver branch of one of 
 * Classically trained chef 🦀  🍅
   * Lucky enough to study under Michelin Star ⭐⭐⭐  awarded chefs, and was a recipient of the James Beard award for Best New Restaurant
 * Outdoor lover⛺ , and an ornate/functional blacksmith 🔨🔨
-* Keen stock market player 📈 , and future real estate investor 🏡 🏡
+* Stock market player 📈 , and future real estate investor 🏡 🏡
 
 ✅ I feel like I would make a great addition to any team, as I work very well with others, and always stay busy working by myself
 

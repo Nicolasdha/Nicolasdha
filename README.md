@@ -7,10 +7,10 @@ My name is Nicolas Durik-Ha, I am currently located in Morrison, CO. I am an avi
 
 🌱 Currently working on and Next Up:
 
-<img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/> <img src="https://img.shields.io/badge/redux%20-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white"/> <img src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/> <img src="https://img.shields.io/badge/redux%20-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white"/><img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>  <img src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge"/>
 
-🛠 Languages and Tools:
+🛠 Languages, Frameworks and Utilities:
 
 <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
@@ -23,6 +23,9 @@ My name is Nicolas Durik-Ha, I am currently located in Morrison, CO. I am an avi
 <img src ="https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white"/>
 <img src="https://img.shields.io/badge/IDE-Visual Studio-<red>?style=for-the-badge&logo=visual-studio-code&logoColor=00c0ff&labelColor=fff&color=00c0ff"/>
 <img src="https://img.shields.io/badge/Module Bundler-Webpack-<red>?style=for-the-badge&logo=Webpack&logoColor=3889C8&labelColor=2B3A43&color=8ED6FB"/>
+<img src="https://img.shields.io/badge/Testing Framework-Jest-<green>?style=for-the-badge&logo=Jest&logoColor=29C212&labelColor=fff&color=29C212"/>
+<img src="https://img.shields.io/badge/Testing Utility-Enzyme-<green>?style=for-the-badge&logo=Enzyme&logoColor=29C212&labelColor=fff&color=E00000"/>
+
 
                                                     🙌  Agile and Scrum 🙌
 

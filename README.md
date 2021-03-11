@@ -25,7 +25,7 @@ My name is Nicolas Durik-Ha, I am currently located in Morrison, CO. I am an avi
 <img src="https://img.shields.io/badge/Module Bundler-Webpack-<red>?style=for-the-badge&logo=Webpack&logoColor=3889C8&labelColor=2B3A43&color=8ED6FB"/>
 <img src="https://img.shields.io/badge/Testing Framework-Jest-<green>?style=for-the-badge&logo=Jest&logoColor=fff&labelColor=29C212&color=fff"/>
 <img src="https://img.shields.io/badge/Testing Utility-Enzyme-<green>?style=for-the-badge&logo=Enzyme&logoColor=fff&labelColor=E00000&color=fff"/>
-<img src="https://img.shields.io/badge/Javascript Compiler-Babel-<green>?style=for-the-badge&logo=Babel&logoColor=F9DC3E&labelColor=3B3C39&color=fff"/>
+<img src="https://img.shields.io/badge/Javascript Compiler-Babel-<green>?style=for-the-badge&logo=Babel&logoColor=F9DC3E&labelColor=3B3C39&color=F9DC3E"/>
 
 
                                                     🙌  Agile and Scrum 🙌

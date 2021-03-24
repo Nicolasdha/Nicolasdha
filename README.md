@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Nicolas Durik-Ha, I am currently located in Morrison, CO. I am an avid programmer who loves creating highly functional secure web sites and applications with clean, readable, and reusable code. 
+My name is Nicolas Durik-Ha, I am currently located in Morrison, CO. I am an avid programmer who loves creating highly functional secure web applications with clean, readable, and reusable code. 
 
 
 <!---I am dedicated to making a living doing what I love.--->

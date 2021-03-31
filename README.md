@@ -18,13 +18,14 @@ My name is Nicolas Durik-Ha, I am currently located in Morrison, CO. I am an avi
 <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
 <img src="https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white"/>
 <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white"/>
 <img src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/>
 <img src ="https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white"/>
 
 <p align="center">
 <img src="https://img.shields.io/badge/IDE-Visual Studio-<red>?style=for-the-badge&logo=visual-studio-code&logoColor=00c0ff&labelColor=fff&color=00c0ff"/>
 <img src="https://img.shields.io/badge/Module Bundler-Webpack-<red>?style=for-the-badge&logo=Webpack&logoColor=3889C8&labelColor=2B3A43&color=8ED6FB"/>
+  <img src="https://img.shields.io/badge/Database&Hosting-Google Firebase-<red>?style=for-the-badge&logo=Firebase&logoColor=F47B02&labelColor=1B73E8&color=EF6D00"/>
+
 
 <p align="center">
 <img src="https://img.shields.io/badge/Testing Framework-Jest-<green>?style=for-the-badge&logo=Jest&logoColor=fff&labelColor=29C212&color=fff"/>
